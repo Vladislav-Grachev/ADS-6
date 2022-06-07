@@ -4,7 +4,7 @@
 
 template<typename T, int size>
 class TPQueue {
-private:
+ private:
     T array[100];
     int q, k;
  public:
